@@ -1,11 +1,11 @@
 # Site settings
-title: CatKang的博客
-email: beijingwangkang@hotmail.com
+title: 全球气候博客
+email:zhangzheng1209@gmail.com
 description: Out of three sounds he frame, not a fourth sound, but a star
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://catkang.github.io/
+url: https://zodiac1209.github.io/test1/
 rss_url: /pages/feed.xml
-author: Kang Wang
+author: zhang zheng
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
